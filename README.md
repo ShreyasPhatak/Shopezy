@@ -1,1 +1,2 @@
 # Shopezy
+JSP & Servlet Application.
